@@ -1,11 +1,5 @@
 # 🛒 ShopMicroservices
 
-Микросервисный интернет-магазин на **.NET 9 / ASP.NET Core**. Состоит из трёх микросервисов и API Gateway (YARP). Взаимодействие между сервисами — REST/HTTP.
-
-![.NET 9](https://img.shields.io/badge/.NET-9-512BD4?logo=dotnet)
-![EF Core](https://img.shields.io/badge/EF%20Core-9-512BD4)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-LocalDB-CC2927?logo=microsoftsqlserver)
-
 ## 📑 Содержание
 
 - [Архитектура](#-архитектура)
