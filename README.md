@@ -102,6 +102,15 @@ ShopMicroservices/
 ├── ShopMicroservices.sln
 └── ShopMicroservices.postman_collection.json
 
+
+Порты
+UserService - https://localhost:7036
+ProductService - https://localhost:7015
+OrderService - https://localhost:7248
+ApiGateway - https://localhost:7060
+
+
+
 📄 Лицензия
 
 Учебный проект.
