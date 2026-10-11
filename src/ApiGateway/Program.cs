@@ -9,3 +9,5 @@ var app = builder.Build();
 app.MapReverseProxy();
 
 app.Run();
+
+public partial class Program { }
