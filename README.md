@@ -144,3 +144,16 @@ ShopMicroservices/
 📄 Лицензия
 
 Учебный проект.
+
+
+
+
+ТЕСТЫ:
+<img width="2291" height="932" alt="изображение" src="https://github.com/user-attachments/assets/5ee97804-b6d8-4609-8067-c1573c4c01b5" />
+<img width="2314" height="1035" alt="изображение" src="https://github.com/user-attachments/assets/8deed5a8-eb8d-4c41-9d29-8cb070df4c10" />
+<img width="2303" height="617" alt="изображение" src="https://github.com/user-attachments/assets/a352d7d0-cd85-4208-9032-ace39de7a308" />
+
+
+
+
+
